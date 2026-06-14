@@ -1,0 +1,4 @@
+Complete OOP and PF Project|1
+start COAL|0
+start the basics of Data Structures|0
+learn HTML and CSS|0
